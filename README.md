@@ -1,10 +1,10 @@
-- Hi, I'm Parth Raj Singh 
+- HI, I AM PARTH RAJ SINGH
 
-AI/ML Developer | Generative AI Enthusiast | Problem Solver
+AI/ML DEVELOPER |  ML AND AI ENGENEERING ENTHUSIAST 
 
 I'm passionate about transforming ideas into intelligent solutions using Machine Learning and Artificial Intelligence. I enjoy exploring how data, algorithms, and modern AI technologies can solve real-world problems.
 
-Currently exploring the world of Deep Learning, LLMs, RAG, and Agentic AI, while building practical applications and strengthening my software development skills.
+Currently exploring the world of Deep Learning, LLMs, RAG, and Agentic AI, while building practical applications and strengthening my software development skills...
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ Currently exploring the world of Deep Learning, LLMs, RAG, and Agentic AI, while
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-raj-singh-73198637a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parth.airtel2007@gmail.com)
 
--------------------------------------------------------------------------------------------------------------\
+-------------------------------------------------------------------------------------------------------------
 
 🛠️ TECH STACK
 
